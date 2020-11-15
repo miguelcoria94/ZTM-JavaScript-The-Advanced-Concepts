@@ -24,4 +24,14 @@ translates and read the files line by line
 
 it works ahead of time to create a translations for our machine in another language (machine code)
 
+# Babel
+
+Babel is a JS compiler that takes in moder JS code and returns browser compatible JS
+
+# Typescript
+
+Typescript is a superset of JS that compiles down to JS.
+
+Both of these do excatly what compilers do: Take one language and convert into a different one!
+
 
