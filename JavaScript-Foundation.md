@@ -16,4 +16,12 @@ He created JavaScript and the spider monkey engine!
 
 Inside the engine !
 
+# interpreter
+
+translates and read the files line by line
+
+# compiler
+
+it works ahead of time to create a translations for our machine in another language (machine code)
+
 
