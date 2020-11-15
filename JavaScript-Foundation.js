@@ -3,3 +3,10 @@ function jsengine(code) {
 }
 
 console.log(jsengine("var a = 5"));
+
+//inline caching
+
+function findUser(user) {
+    return `found ${user.firstName} ${user.lastName}`
+}
+

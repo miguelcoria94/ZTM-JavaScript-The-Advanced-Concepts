@@ -34,4 +34,6 @@ Typescript is a superset of JS that compiles down to JS.
 
 Both of these do excatly what compilers do: Take one language and convert into a different one!
 
+# Is JS an interperted language? It depends on the implementaion
+
 
