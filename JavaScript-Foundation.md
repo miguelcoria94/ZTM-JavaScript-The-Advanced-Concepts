@@ -36,4 +36,4 @@ Both of these do excatly what compilers do: Take one language and convert into a
 
 # Is JS an interperted language? It depends on the implementaion
 
-
+# inline caching and hidden classed slow down code - write predictable code
